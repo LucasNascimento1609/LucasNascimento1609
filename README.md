@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou Lucas Nascimento!</h1>
+<h1 align="center">Olá eu sou Lucas Nascimento</h1>
 <h3 align="center">Estudante de Desenvolvimento de Softwares | Trybe</h3>
 
 Olá eu sou Lucas e sou Estudante de Desenvolvimento de Softwares na Trybe. Me formei em jornalismo, por amar escrever e me comunicar, mas depois de uma grande mudança na minha vida, acabei optando pela transição de carreira para área de Desenvolvimento Web, e percebi que programar também é escrever e se comunicar.
