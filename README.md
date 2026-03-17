@@ -1,17 +1,27 @@
-<h1 align="center">Olá eu sou Lucas Nascimento</h1>
-<h3 align="center">Estudante de Desenvolvimento de Softwares | Trybe</h3>
+<h1 align="center">Olá, eu sou Lucas Nascimento</h1>
+<h3 align="center">Full Stack Developer | JavaScript, TypeScript, React, Node.js</h3>
 
-Olá eu sou Lucas e sou Estudante de Desenvolvimento de Softwares na Trybe. Me formei em jornalismo, por amar escrever e me comunicar, mas depois de uma grande mudança na minha vida, acabei optando pela transição de carreira para área de Desenvolvimento Web, e percebi que programar também é escrever e se comunicar.
+Olá! Sou o Lucas, um desenvolvedor apaixonado por tecnologia com um background único em **Jornalismo**. Essa transição de carreira me ensinou que programar, assim como escrever, é uma forma poderosa de comunicação e resolução de problemas.
 
-Durante meses de estudo na Trybe adquiri bastante experiência com JavaScript, React, Context API, GitHub, NodeJS, HTML, CSS e muitas outras tecnologias. Além dos meus aprendizados em Hard Skills também tenho muita experiência em Soft Skills, onde aprendi bastante sobre qual a melhor maneira de se trabalhar em equipe, e como ter uma boa comunicação.
+[cite_start]Recentemente, atuei como **Analista de Desenvolvimento de Sistemas na Mundo Livre Digital**, onde foquei na criação de fluxos de comunicação complexos utilizando a API do **Twilio** e na manutenção de **APIs REST** escaláveis. [cite_start]Tenho experiência em lidar com sistemas em produção, garantindo estabilidade e qualidade no código[cite: 78, 82].
 
-A Trybe também fez crescer em mim um amor muito grande pela área, e ter fome de buscar novos conhecimentos.
+[cite_start]Atualmente, sigo aprimorando meus conhecimentos teóricos e práticos no curso de **Desenvolvimento de Software Multiplataforma na FATEC Diadema**.
 
-* 🌍  Moro em São Paulo - Brasil.
-* :computer: Possuo experiência com Front-End: React, Redux, HTML, CSS.
-* 🧠  Estou aprofundando meus conhecimentos em Back-End: MongoDB, Docker, TypeScript.
-* :mailbox_with_mail: [lucasnascimento.lp@gmail.com](mailto:guga.santos.guga@gmail.com)
-* :office: LinkedIn: https://www.linkedin.com/in/lucas-p-nascimento/
+* [cite_start]🌍 Moro em Diadema, São Paulo - Brasil.
+* [cite_start]💻 Especialista em ecossistema JavaScript: **React, Node.js e TypeScript**[cite: 89].
+* [cite_start]🚀 Experiência com integrações de APIs de terceiros (**Twilio**) e suporte a sistemas críticos[cite: 78, 81].
+* [cite_start]🧠 Conhecimentos em bancos de dados **SQL e NoSQL (MongoDB)**.
+* [cite_start]✉️ [lucasnascimento.lp@gmail.com](mailto:lucasnascimento.lp@gmail.com) [cite: 73]
+* [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/lucas-p-nascimento/) [cite: 75]
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
