@@ -3,16 +3,16 @@
 
 Olá! Sou o Lucas, um desenvolvedor apaixonado por tecnologia com um background único em **Jornalismo**. Essa transição de carreira me ensinou que programar, assim como escrever, é uma forma poderosa de comunicação e resolução de problemas.
 
-[cite_start]Recentemente, atuei como **Analista de Desenvolvimento de Sistemas na Mundo Livre Digital**, onde foquei na criação de fluxos de comunicação complexos utilizando a API do **Twilio** e na manutenção de **APIs REST** escaláveis. [cite_start]Tenho experiência em lidar com sistemas em produção, garantindo estabilidade e qualidade no código[cite: 78, 82].
+Recentemente, atuei como **Analista de Desenvolvimento de Sistemas na Mundo Livre Digital**, onde foquei na criação de fluxos de comunicação complexos utilizando a API do **Twilio** e na manutenção de **APIs REST** escaláveis. Tenho experiência em lidar com sistemas em produção, garantindo estabilidade e qualidade no código.
 
-[cite_start]Atualmente, sigo aprimorando meus conhecimentos teóricos e práticos no curso de **Desenvolvimento de Software Multiplataforma na FATEC Diadema**.
+Atualmente, sigo aprimorando meus conhecimentos teóricos e práticos no curso de **Desenvolvimento de Software Multiplataforma na FATEC Diadema**.
 
-* [cite_start]🌍 Moro em Diadema, São Paulo - Brasil.
-* [cite_start]💻 Especialista em ecossistema JavaScript: **React, Node.js e TypeScript**[cite: 89].
-* [cite_start]🚀 Experiência com integrações de APIs de terceiros (**Twilio**) e suporte a sistemas críticos[cite: 78, 81].
-* [cite_start]🧠 Conhecimentos em bancos de dados **SQL e NoSQL (MongoDB)**.
-* [cite_start]✉️ [lucasnascimento.lp@gmail.com](mailto:lucasnascimento.lp@gmail.com) [cite: 73]
-* [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/lucas-p-nascimento/) [cite: 75]
+* 🌍 Moro em Diadema, São Paulo - Brasil.
+* 💻 Especialista em ecossistema JavaScript: **React, Node.js e TypeScript**.
+* 🚀 Experiência com integrações de APIs de terceiros (**Twilio**) e suporte a sistemas críticos.
+* 🧠 Conhecimentos em bancos de dados **SQL e NoSQL (MongoDB)**.
+* ✉️ [lucasnascimento.lp@gmail.com](mailto:lucasnascimento.lp@gmail.com) 
+* 💼 [LinkedIn](https://www.linkedin.com/in/lucas-p-nascimento/) 
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
